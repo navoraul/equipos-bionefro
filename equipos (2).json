@@ -1,0 +1,30 @@
+[
+  {
+    "id": "eq_ilovfrp",
+    "codigo": "c1-osm",
+    "nombre": "osmisos",
+    "categoria": "tratamiento de agua",
+    "advertencias": [
+      "reisgo daño memebrana"
+    ],
+    "instrucciones": [],
+    "mantUltima": "",
+    "mantProxima": "",
+    "mantContacto": "",
+    "mantTelefono": "",
+    "notas": ""
+  },
+  {
+    "id": "eq_oam2u3b",
+    "codigo": "cnc-014",
+    "nombre": "filtro carbon 1",
+    "categoria": "tratamiento agua",
+    "advertencias": [],
+    "instrucciones": [],
+    "mantUltima": "",
+    "mantProxima": "",
+    "mantContacto": "",
+    "mantTelefono": "",
+    "notas": ""
+  }
+]
