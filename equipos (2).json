@@ -1,0 +1,50 @@
+[
+  {
+    "id": "eq_ilovfrp",
+    "codigo": "c1-osm",
+    "nombre": "filtro carbon",
+    "categoria": "tratamiento de agua",
+    "advertencias": [
+      "riesgo de daño equipo, por sobrepresion"
+    ],
+    "instrucciones": [
+      "Verificar que la hora de retrolavado sea correcta",
+      "verificar que ele quipo se encuentre conectado"
+    ],
+    "mantUltima": "2026-01-01",
+    "mantProxima": "2026-08-10",
+    "mantContacto": "ing raul bracamontes",
+    "mantTelefono": "3315202615",
+    "notas": "chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://aquatroltech.com/wp-content/uploads/2023/03/AQT-580XT-AQT-581XT_Manual.pdf"
+  },
+  {
+    "id": "eq_oam2u3b",
+    "codigo": "cnc-014",
+    "nombre": "filtro carbon 1",
+    "categoria": "tratamiento agua",
+    "advertencias": [],
+    "instrucciones": [],
+    "mantUltima": "",
+    "mantProxima": "",
+    "mantContacto": "",
+    "mantTelefono": "",
+    "notas": ""
+  },
+  {
+    "id": "eq_h0hys2w",
+    "codigo": "ext-01",
+    "nombre": "extintor 1",
+    "categoria": "equipo vs incendio",
+    "advertencias": [
+      "equipo de co2 areas electricas"
+    ],
+    "instrucciones": [
+      "verificar fecha de servicio 22/2028"
+    ],
+    "mantUltima": "2026-03-01",
+    "mantProxima": "2026-12-12",
+    "mantContacto": "dr kiara varumen",
+    "mantTelefono": "",
+    "notas": "https://www.aaaproteccioncontraincendios.com/servicios/recarga-mantenimiento-extintores?gad_source=1&gad_campaignid=23595610278&gbraid=0AAAABCjFXCo-es0ase0mq9V4XvWya27MS&gclid=Cj0KCQjw-frTBhCvARIsADv4XY7cHJs9gJvHSU5fn_KMvL-rrc1qZafPG1rMJUR6KrhqRDgXrg2NlNIaAuIJEALw_wcB"
+  }
+]
